@@ -1,6 +1,6 @@
 {
   "name": "@beem/log",
-  "module": "index.js",
+  "module": "index.ts",
   "scripts": {
   },
   "dependencies": {
