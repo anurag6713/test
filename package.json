@@ -1,5 +1,5 @@
 {
-  "name": "@beem/log",
+  "name": "beemLog",
   "module": "index.ts",
   "scripts": {
   },
